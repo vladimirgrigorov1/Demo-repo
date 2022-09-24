@@ -1,3 +1,3 @@
-# Demo
+# Practicum-Intro-To-Programming
 
-Some description!
+Used to store tasks from the "Intro to programming" practicum at Sofia University FMI.
